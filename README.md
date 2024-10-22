@@ -4,7 +4,7 @@
  <img width=200px height=200px src="./docs/logseq.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">logseq-plugin-gpt3-openai</h3>
+<h3 align="center">logseq-plugin-gpt3-openai-realagi-flavor</h3>
 
 <div align="center">
 
